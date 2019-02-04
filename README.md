@@ -13,13 +13,35 @@ This workshop will cover the following topics:
 * [Working with Markdown cells](WorkingWithMarkdownCells.ipynb)
 * Extra: [Typesetting equations](TypesettingEquations.ipynb)
 
-### Exercises
+## Rich output display
 
-* [Counting words](exercises/WordFrequencies.ipynb)
-* Extra: [Monte Carlo integration of pi](exercises/MonteCarloPi.ipynb)
+* [Rich output](RichOutput.ipynb)
+* Extra: [Custom display logic](CustomDisplayLogic.ipynb)
+* Extra: [Updating displays](UpdatingDisplays.ipynb)
+
+## Interactive widgets in notebook output
+
+* [Using `interact`](UsingInteract.ipynb)
+* Extra: [Available widgets](WidgetList.ipynb)
+* Extra: [Widget basics](WidgetBasics.ipynb)
+* Extra: [Widget events](WidgetEvents.ipynb)
+
+## Notebook files and nbconvert
+
+* [Notebook file format](Notebookfileformat.ipynb)
+* [Nbconvert: convert notebooks to other formats](UsingNbconvert.ipynb)
+* [Nbval: Check that notebooks run correctly](nbval.ipynb)
+* Extra: [Nbconvert custom templates](nbconvert_templates/Nbconverttemplates.ipynb)
+
+## Sharing notebooks with Github, Nbviewer and Binder
+
+* [Nbviewer: Sharing notebooks on the web](Nbviewer.ipynb)
+* [mybinder.org](https://mybinder.org/)
+  * [Example Binder repository with LIGO data](https://github.com/minrk/ligo-binder/)
+  * [Binder documentation](http://mybinder.readthedocs.io/en/latest/index.html)
+* Extra: [Nbdime: notebooks in version control](nbdime.ipynb)
 
 <div class="alert alert-info">If you're stuck on any exercise, you can see the solution by changing the URL to `...-solution.ipynb`</div>
-
 
 There is extra material in each section plus exercises and challenges with solutions.
 
